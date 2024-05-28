@@ -23,7 +23,7 @@ function App() {
     <>
       <header className="py-6 ">
         <h1 className="uppercase text-center font-black text-4xl text-blue-800 border-x-8 border-indigo-500">
-          Financial planner
+          PLanificador de gastos
         </h1>
       </header>
 

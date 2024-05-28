@@ -1,14 +1,17 @@
-#ExpensePlan 🌎
-Una aplicacion para planificar tus gastos de manera adecuada.
+# ExpensePlan 🌎
 
-#Demo 🏝️🌐
+_Una aplicacion para planificar tus gastos de manera adecuada._
+
+# Demo 🏝️🌐
+
 View Demo: https://expenseplan.vercel.app/
 
-Project ✅
-Solution from https://github.com/wilyramos 🫐
+# Project ✅
+
+*Solution from https://github.com/wilyramos 🫐*
 Project Solved
 
-#Herramientas utilizadas 🔧
+# Herramientas utilizadas 🔧
 
 - TailwindCSS
 - ContextAPI
